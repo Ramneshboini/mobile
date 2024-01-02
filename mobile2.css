@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bgimg2 {
+    background-image: url('https://www.bhmpics.com/downloads/nice-gaming-background-Wallpapers/15.360_f_363391105_aksgy8xt3vyzpemd1ni3cgekwtthlguc.jpg');
+    background-size: cover;
+    height: 130vh;
+}
+
+.mobilehead {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 25px;
+}
+
+.layoutcard2 {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 18px;
+}
+
+.brandsimg {
+    width: 120px;
+    height: 120px;
+}
+
+.brandshead {
+    color: #041836;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.brandspara {
+    color: grey;
+    font-size: 15px;
+}

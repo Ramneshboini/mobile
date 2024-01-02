@@ -1,0 +1,13 @@
+.backimg{
+    background-image: url(https://w0.peakpx.com/wallpaper/110/397/HD-wallpaper-xiaomi-android-mobile-phone-2019.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.whitebg{
+    background-color: white;
+    height: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+}

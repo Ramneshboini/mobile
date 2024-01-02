@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bgimg {
+    background-image: url(https://t3.ftcdn.net/jpg/06/15/47/64/360_F_615476401_jqqBFIVMdGWhWoQo8bqu83XMMQoYxWmN.jpg);
+    height: 130vh;
+    background-size: cover;
+}
+.headfirst {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+}
+.bgcardcarousel {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 100px;
+    margin-top: 15px;
+}
+.cardcon {
+    padding: 20px;
+}
+.headsecond {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline {
+    color: #6c6b70;
+    font-size: 13px;
+}
